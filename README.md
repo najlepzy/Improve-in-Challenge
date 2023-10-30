@@ -38,6 +38,8 @@ Clicking on a genre will filter the bands to show only those that match the sele
 
 Clicking on a band name will redirect you to a URL /user/band/{selected band name} that displays its albums, release dates, members, country, and music genre. This is achieved through a global context and inheritance to also make a call to the GET /albums endpoint.
 
+There are two arrows (upward and downward) located next to the title 'List of Bands,' which allow sorting in ascending and descending order for both A-Z and Z-A, respectively.
+
 There is an arrow to exit this screen without having to go back in the browser.
 
 The logout button invalidates the credentials and sets the state to false. If you do not re-enter the credentials, there is no way to access the application.
