@@ -25,7 +25,7 @@ The application includes a login screen with authentication. Use the following c
 ```bash
 Email: diego@example.com
 
-Password: 12345678
+Password: improve-in
 ```
 
 Once these credentials are entered, you can access the application. Without these credentials, you cannot access other URLs in the application.
